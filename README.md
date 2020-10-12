@@ -1,6 +1,6 @@
 # Ruchir Chawdhry 👨🏻‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchirChawdhry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuchirChawdhry&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **RuchirChawdhry/RuchirChawdhry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
