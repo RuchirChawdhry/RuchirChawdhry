@@ -1,6 +1,6 @@
 # 👨🏻‍💻
 
-Hey, I'm Ruchir from India and I build web applications. I enjoy learning languages and frameworks like React.
+Hey, I'm Ruchir from India and I'm learning to build web applications. I enjoy learning programming languages and frameworks like Django.
 
 ## Skills
 
