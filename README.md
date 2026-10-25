@@ -1,11 +1,11 @@
 # 👨🏻‍💻
 
-Hey, I'm Ruchir from India and I'm learning to build web applications. I enjoy learning programming languages and frameworks like Django.
 
 ## Skills
 
-⭆ HTML & CSS<br/>
-⭆ Python 3
+⭆ Python<br/>
+⭆ FastAPI<br/>
+⭆ Svelte
 
 ## Connect With Me
 ⭆ <img src="https://i.stack.imgur.com/gVE0j.png"> [LinkedIn](https://linkedin.com/in/RuchirChawdhry)
