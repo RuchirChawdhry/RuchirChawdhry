@@ -1,12 +1,3 @@
-# 👨🏻‍💻
-
-
-## Skills
-
-⭆ Python<br/>
-⭆ FastAPI<br/>
-⭆ Svelte
-
 ## Connect With Me
 ⭆ <img src="https://i.stack.imgur.com/gVE0j.png"> [LinkedIn](https://linkedin.com/in/RuchirChawdhry)
 
